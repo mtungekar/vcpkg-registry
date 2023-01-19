@@ -1,0 +1,7 @@
+{
+  "name": "ctle",
+  "version": "0.2",
+  "description": "C++ Template Library Extension classes",
+  "homepage": "https://github.com/mtungekar/ctle",
+  "license": "MIT"
+}
