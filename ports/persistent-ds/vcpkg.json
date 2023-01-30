@@ -1,0 +1,7 @@
+{
+  "name": "persistent-ds",
+  "version": "0.1",
+  "description": "A persistent data structure framework in C++",
+  "homepage": "https://github.com/mtungekar/persistent-ds",
+  "license": "MIT"
+}

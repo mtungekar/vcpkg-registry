@@ -3,6 +3,10 @@
         "ctle":{
             "baseline": "0.3",
             "port-version": 0
+        },
+        "persistent-ds":{
+            "baseline": "0.1",
+            "port-version": 0
         }
     }
 }
