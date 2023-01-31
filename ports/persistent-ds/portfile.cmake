@@ -2,7 +2,7 @@ vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
   REPO mtungekar/persistent-ds
   REF 26df0b27d329c9aa80477ddc606b9a0a61313905
-  SHA512 0
+  SHA512 bca8f62ff12b004cbd7eab468a2458a477936ef7fb30598ca46985bbc19dddd0169fc267d2194afef06ff3084ef3a6c38d79d77f9f2bf7211e4c126f7f3fd014
   HEAD_REF main
 )
 
